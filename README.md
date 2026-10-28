@@ -26,6 +26,10 @@
 
 ## 📊 GitHub Stats:
 
-[![Shikhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikharjoshi72-droid&show_icons=true&theme=radial)](https://github.com/shikharjoshi72-droid)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shikharjoshi72-droid&show_icons=true&theme=radial" alt="Shikhar's GitHub Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharjoshi72-droid&layout=compact&theme=radial)](https://github.com/shikharjoshi72-droid)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharjoshi72-droid&layout=compact&theme=radial" alt="Top Langs" />
+</p>
