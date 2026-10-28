@@ -27,9 +27,13 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shikharjoshi72-droid&show_icons=true&theme=radial" alt="Shikhar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shikharjoshi72-droid&show_icons=true&theme=default" alt="Shikhar's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharjoshi72-droid&layout=compact&theme=radial" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharjoshi72-droid&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikharjoshi72-droid&theme=default" alt="GitHub Streak" />
 </p>
