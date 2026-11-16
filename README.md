@@ -82,6 +82,10 @@ I'm passionate about building practical software applications, exploring intelli
 
 A11yLens is an interactive web accessibility auditing tool designed to help developers understand website accessibility, inspect DOM structures, and identify potential usability barriers.
 
+**🚧 Project Status: Currently Under Development**
+
+A11yLens is actively being developed, with improvements and new accessibility features planned for future updates.
+
 ### ✨ Key Features
 
 | Feature | Description |
