@@ -177,18 +177,19 @@ flowchart TD
 
 </div>
 
+----
 
 ## 🐍 08. Contribution Activity
 
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/shikharjoshi72-droid/shikharjoshi72-droid/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div> 
 
-<img src="https://raw.githubusercontent.com/shikharjoshi72-droid/shikharjoshi72-droid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
-*Contribution snake animation requires a configured GitHub Actions workflow in your profile repository.*
-
----
+-----
 
 ## 🌱 09. Beyond Coding
 
