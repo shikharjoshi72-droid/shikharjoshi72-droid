@@ -34,30 +34,36 @@ I'm passionate about building practical software applications, exploring intelli
 ## 🛠️ 02. Technology Stack
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database Technologies
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
+
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -106,21 +112,22 @@ A11yLens is an interactive web accessibility auditing tool designed to help deve
 
 [![Live Demo](https://img.shields.io/badge/Explore%20Live%20Demo-Visit%20Website-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
 
----
+<badge-placeholder/>
 
-## 🖼️ 04. Project Screenshots
-
-Explore the A11yLens interface and its features through the live project:
-
-- [Main Dashboard — Open Live Demo](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
-- [Accessibility Contrast Engine — Open Live Demo](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
-- [DOM Hierarchy Inspector — Open Live Demo](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
-
-*Screenshots will be added here when the actual image files are uploaded to the repository.*
-
-**🚧 Project Status: Currently Under Development**
+### 🚧 Project Status: Currently Under Development
 
 A11yLens is actively being developed, with improvements and new accessibility features planned for future updates.
+
+---
+
+## 🖼️ 04. Project Preview
+
+Explore the A11yLens interface and its features:
+
+- [Main Dashboard — Live Demo](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
+- [Accessibility Contrast Engine — Live Demo](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
+- [DOM Hierarchy Inspector — Live Demo](https://shikharjoshi72-droid.github.io/Personal-project--A11yLens-/)
+
 ---
 
 ## 🏗️ 05. Project Architecture
@@ -171,25 +178,29 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shikharjoshi72-droid&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/shikharjoshi72-droid)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharjoshi72-droid&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages"/>
+![GitHub Followers](https://img.shields.io/github/followers/shikharjoshi72-droid?style=for-the-badge&logo=github&label=Followers)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shikharjoshi72-droid&style=for-the-badge&color=blue)
 
 </div>
 
-----
+---
 
 ## 🐍 08. Contribution Activity
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/shikharjoshi72-droid/shikharjoshi72-droid/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</div> 
 
------
+<img
+  src="https://raw.githubusercontent.com/shikharjoshi72-droid/shikharjoshi72-droid/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
+
+</div>
+
+---
 
 ## 🌱 09. Beyond Coding
 
